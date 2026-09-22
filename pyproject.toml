@@ -1,5 +1,0 @@
-[project]
-name = "dsc510-fall2026"
-version = "0.1.0"
-requires-python = ">=3.13"
-dependencies = []
